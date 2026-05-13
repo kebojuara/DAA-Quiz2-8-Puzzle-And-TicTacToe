@@ -1,4 +1,4 @@
-DAA Quiz2 - 8 Puzzle and TicTacToe
+## DAA Quiz2 - 8 Puzzle and TicTacToe
 
 ---
 
